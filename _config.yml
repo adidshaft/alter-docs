@@ -1,4 +1,4 @@
-title: Alter Docs
+title: Alter
 description: "The open algorithm behind Alter's AI matchmaking — transparent, auditable, and open to contribution."
 
 remote_theme: just-the-docs/just-the-docs
@@ -8,3 +8,17 @@ plugins:
 
 color_scheme: dark
 search_enabled: true
+
+# Branding & Logo
+logo: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23A673FF' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 2L2 7V12L12 22L22 12V7L12 2Z'/%3E%3Ccircle cx='12' cy='12' r='3' fill='%23A673FF'/%3E%3C/svg%3E"
+
+# Navigation & Links
+aux_links:
+  "GitHub": https://github.com/adidshaft/alter
+  "Alter App": https://alter.dating
+
+aux_links_position: bottom
+
+footer_content: "Alter is open source and community-driven. Help us improve the algorithm."
+
+heading_anchors: true
