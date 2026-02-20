@@ -1,0 +1,6 @@
+title: Alter Docs
+description: "The open algorithm behind Alter's AI matchmaking — transparent, auditable, and open to contribution."
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+search_enabled: true
