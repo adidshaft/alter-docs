@@ -1,0 +1,35 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Alter",
+  "colors": {
+    "primary": "#A673FF",
+    "light": "#C4A0FF",
+    "dark": "#7B4FD4",
+    "background": {
+      "dark": "#0A0A0A"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/adidshaft/alter-docs"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Propose an RFC",
+    "url": "https://github.com/adidshaft/alter-docs/discussions"
+  },
+  "navigation": [
+    {
+      "group": "",
+      "pages": ["introduction"]
+    },
+    {
+      "group": "Algorithm Reference",
+      "pages": ["algorithm"]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/adidshaft/alter-docs"
+  }
+}
