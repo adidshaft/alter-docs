@@ -22,3 +22,5 @@ aux_links_position: bottom
 footer_content: "Alter is open source and community-driven. Help us improve the algorithm."
 
 heading_anchors: true
+
+# Trigger workflow sync (Phase 12 documentation update)
