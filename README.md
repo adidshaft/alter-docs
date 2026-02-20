@@ -1,6 +1,6 @@
 ---
 title: "Alter Matchmaking Architecture"
-layout: home
+layout: default
 nav_order: 1
 ---
 
