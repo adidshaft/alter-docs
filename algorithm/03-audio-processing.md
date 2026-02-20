@@ -1,6 +1,6 @@
 ---
 title: "Pipeline Stage 1 — Audio Processing"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 3
 ---
 

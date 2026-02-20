@@ -1,6 +1,6 @@
 ---
 title: "The Scouting Feed (Phase 12)"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 11
 ---
 

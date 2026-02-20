@@ -1,6 +1,6 @@
 ---
 title: "The Evolving Intelligence (RL Loop)"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 10
 ---
 

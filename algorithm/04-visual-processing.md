@@ -1,6 +1,6 @@
 ---
 title: "Pipeline Stage 2 — Visual Processing"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Agent Negotiation Protocol"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 9
 ---
 

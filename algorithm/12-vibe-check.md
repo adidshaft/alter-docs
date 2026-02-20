@@ -1,6 +1,6 @@
 ---
 title: "The Vibe-Check Safety Layer"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Mathematics of Matching"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 6
 ---
 

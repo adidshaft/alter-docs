@@ -1,6 +1,6 @@
 ---
 title: "Pipeline Stage 3 — The Agent Dossier"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 5
 ---
 

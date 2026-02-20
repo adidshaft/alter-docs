@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure & Scheduling"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 13
 ---
 

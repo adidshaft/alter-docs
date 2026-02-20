@@ -1,6 +1,6 @@
 ---
 title: "The AI Stack"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 2
 ---
 

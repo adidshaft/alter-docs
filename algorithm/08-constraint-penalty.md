@@ -1,6 +1,6 @@
 ---
 title: "The Constraint Penalty System"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 8
 ---
 

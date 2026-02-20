@@ -1,6 +1,6 @@
 ---
 title: "Contributing to the Algorithm"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 15
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Vedic Compatibility Scoring"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 7
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "User Journey & Data Taxonomy"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 1
 ---
 

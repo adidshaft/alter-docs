@@ -1,6 +1,6 @@
 ---
 title: "Data Schema Reference"
-parent: Algorithm
+parent: Algorithm Reference
 nav_order: 14
 ---
 
