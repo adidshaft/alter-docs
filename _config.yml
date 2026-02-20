@@ -1,5 +1,7 @@
 title: Alter Docs
 description: "The open algorithm behind Alter's AI matchmaking — transparent, auditable, and open to contribution."
+url: "https://adidshaft.github.io"
+baseurl: "/alter-docs"
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
