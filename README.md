@@ -1,3 +1,9 @@
+---
+title: "Alter Matchmaking Architecture"
+layout: home
+nav_order: 1
+---
+
 # Alter Matchmaking Architecture
 ### A complete technical reference for engineers, researchers, and contributors
 
