@@ -23,4 +23,4 @@ footer_content: "Alter is open source and community-driven. Help us improve the 
 
 heading_anchors: true
 
-# Trigger workflow sync (Phase 12 documentation update — recreate repo after cleanup)
+# Trigger workflow sync (Phase 12 documentation update — cleaned duplicates)
